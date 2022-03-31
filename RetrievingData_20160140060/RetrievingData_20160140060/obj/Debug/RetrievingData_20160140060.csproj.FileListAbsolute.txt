@@ -1,0 +1,8 @@
+c:\users\fritziel\documents\visual studio 2015\Projects\RetrievingData_20160140060\RetrievingData_20160140060\bin\Debug\RetrievingData_20160140060.exe.config
+c:\users\fritziel\documents\visual studio 2015\Projects\RetrievingData_20160140060\RetrievingData_20160140060\bin\Debug\RetrievingData_20160140060.exe
+c:\users\fritziel\documents\visual studio 2015\Projects\RetrievingData_20160140060\RetrievingData_20160140060\bin\Debug\RetrievingData_20160140060.pdb
+c:\users\fritziel\documents\visual studio 2015\Projects\RetrievingData_20160140060\RetrievingData_20160140060\obj\Debug\RetrievingData_20160140060.Form1.resources
+c:\users\fritziel\documents\visual studio 2015\Projects\RetrievingData_20160140060\RetrievingData_20160140060\obj\Debug\RetrievingData_20160140060.Properties.Resources.resources
+c:\users\fritziel\documents\visual studio 2015\Projects\RetrievingData_20160140060\RetrievingData_20160140060\obj\Debug\RetrievingData_20160140060.csproj.GenerateResource.Cache
+c:\users\fritziel\documents\visual studio 2015\Projects\RetrievingData_20160140060\RetrievingData_20160140060\obj\Debug\RetrievingData_20160140060.exe
+c:\users\fritziel\documents\visual studio 2015\Projects\RetrievingData_20160140060\RetrievingData_20160140060\obj\Debug\RetrievingData_20160140060.pdb
